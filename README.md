@@ -1,5 +1,5 @@
   <!-- badges: start -->
-  [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IgnasiLucas/Tasca/soca?urlpath=lab)
+  [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IgnasiLucas/Exercici/soca?urlpath=lab)
   <!-- badges: end -->
 
 # Tasca de Bioinformàtica
